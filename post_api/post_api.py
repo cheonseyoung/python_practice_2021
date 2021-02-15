@@ -7,11 +7,12 @@ app = Flask(__name__)
 def post():
     a = request.form['a']
     b = request.form['b']
-    return a+b
+    print(a+b)
+    return a + b
 
 
 @app.route('/test')
-def post():
+def postt():
     return render_template('post.html')
 
 
