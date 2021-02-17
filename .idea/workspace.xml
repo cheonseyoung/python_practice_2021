@@ -22,6 +22,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1o69GQwzSLYBYU4FgF3VG5T4XtS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -130,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613571618321</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit practice">
+      <created>1613572015150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613572015150</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit practice">
+      <created>1613572031731</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613572031731</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
