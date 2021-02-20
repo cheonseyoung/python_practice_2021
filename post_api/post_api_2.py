@@ -15,7 +15,8 @@ def post2():
     a = request.form['a']
     b = request.form['b']
     a_plus_b = float(a) + float(b)
-    return render_template('add.html', c=a_plus_b)
+    msg = " a + b = %f" %a_plus_b
+    return msg
 
 
 if __name__ == '__main__':
